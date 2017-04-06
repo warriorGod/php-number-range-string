@@ -1,0 +1,24 @@
+{
+    "name": "warriorgod/php-number-range-string",
+    "description": "Support calculations on day ranges (e.g. 1-2, 4, ...)",
+    "type": "library",
+    "authors": [
+        {
+            "name": "gregor tramsak",
+            "email": "gregor.tramsak@gmail.com"
+        }
+    ],
+    "version": "1.0.0",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Tramsak\\NumberRangeString\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": { "Tramsak\\NumberRangeString\\Tests\\": "tests/" }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~5.7"
+    }
+}
