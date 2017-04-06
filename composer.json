@@ -8,7 +8,7 @@
             "email": "gregor.tramsak@gmail.com"
         }
     ],
-    "version": "1.0.0",
+    "license": "MIT",
     "require": {},
     "autoload": {
         "psr-4": {
